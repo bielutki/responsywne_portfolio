@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  },
+  "name": "ml_modern_portfolio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio webside",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Konrad Czarnecki",
+  "license": "MIT"
+}
